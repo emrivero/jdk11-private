@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/transaction/javax.transaction-api/1.3/javax.transaction-api-1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/jws/javax.jws-api/1.1/javax.jws-api-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/mail/mail/1.4.7/mail-1.4.7.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/corba/glassfish-corba-orb/4.2.0-b004/glassfish-corba-orb-4.2.0-b004.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/corba/glassfish-corba-csiv2-idl/4.2.0-b004/glassfish-corba-csiv2-idl-4.2.0-b004.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/corba/glassfish-corba-omgapi/4.2.0-b004/glassfish-corba-omgapi-4.2.0-b004.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/corba/glassfish-corba-internal-api/4.2.0-b004/glassfish-corba-internal-api-4.2.0-b004.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/gmbal/gmbal/4.0.0-b002/gmbal-4.0.0-b002.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/external/management-api/3.2.1-b003/management-api-3.2.1-b003.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-basic/4.0.1-b003/pfl-basic-4.0.1-b003.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-tf/4.0.1-b003/pfl-tf-4.0.1-b003.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-asm/4.0.1-b003/pfl-asm-4.0.1-b003.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-dynamic/4.0.1-b003/pfl-dynamic-4.0.1-b003.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-basic-tools/4.0.1-b003/pfl-basic-tools-4.0.1-b003.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-tf-tools/4.0.1-b003/pfl-tf-tools-4.0.1-b003.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/corba/exception-annotation-processor/4.2.0-b004/exception-annotation-processor-4.2.0-b004.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/osgi/org.osgi.core/6.0.0/org.osgi.core-6.0.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-framework/2.4.3/grizzly-framework-2.4.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/ws/jaxws-rt/2.3.1/jaxws-rt-2.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/ws/policy/2.7.5/policy-2.7.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/gmbal/gmbal-api-only/3.1.0-b001/gmbal-api-only-3.1.0-b001.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/stream/buffer/streambuffer/1.5.6/streambuffer-1.5.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jvnet/mimepull/mimepull/1.9.10/mimepull-1.9.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/ha/ha-api/3.1.9/ha-api-3.1.9.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/messaging/saaj/saaj-impl/1.5.0/saaj-impl-1.5.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/woodstox/woodstox-core/5.1.0/woodstox-core-5.1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/woodstox/stax2-api/4.1/stax2-api-4.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/ws/jaxws-tools/2.3.1/jaxws-tools-2.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-xjc/2.3.1/jaxb-xjc-2.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-jxc/2.3.1/jaxb-jxc-2.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/ws/jaxws-eclipselink-plugin/2.3.1/jaxws-eclipselink-plugin-2.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.2/org.eclipse.persistence.moxy-2.7.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/org.eclipse.persistence.core/2.7.2/org.eclipse.persistence.core-2.7.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/org.eclipse.persistence.asm/2.7.2/org.eclipse.persistence.asm-2.7.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/junit/jupiter/junit-jupiter-params/5.3.1/junit-jupiter-params-5.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.jar"/>
+</classpath>
